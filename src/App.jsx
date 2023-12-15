@@ -69,10 +69,10 @@ const sendInfo = async (e) => {
     }
 }
 
-const textFunction = (e) => {
-  console.log(e.target.value)
-  console.log(e.target.name)
-  setInfo({...info, [e.target.name]: e.target.value})
+const textFunction = ({target}) => {
+  console.log(target.value)
+  console.log(target.name)
+  setInfo({...info, [target.name]: target.value})
 }
 
   return (

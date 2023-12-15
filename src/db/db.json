@@ -12,12 +12,6 @@
       }
     },
     {
-      "name": "carlos eduardo ortiz",
-      "email": "carlosklinton.2016@gmail.com",
-      "address": "Mz E10lt3 Sc Leoncio Prado",
-      "id": 6
-    },
-    {
       "name": "diana",
       "email": "d@gmail.com",
       "address": "kdsnkn",
@@ -28,6 +22,18 @@
       "email": "rx@gmail.com",
       "address": "Mz E10lt3 Sc Leoncio Prado",
       "id": 9
+    },
+    {
+      "name": "diana",
+      "email": "diana@123",
+      "address": "mlkm",
+      "id": 10
+    },
+    {
+      "name": "sheyla",
+      "email": "sheyla@123456",
+      "address": "l,ml",
+      "id": 11
     }
   ]
 }
