@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "estafano e",
+      "username": "estef",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "new york"
+      }
+    },
+    {
+      "name": "carlos eduardo ortiz",
+      "email": "carlosklinton.2016@gmail.com",
+      "address": "Mz E10lt3 Sc Leoncio Prado",
+      "id": 6
+    },
+    {
+      "name": "diana",
+      "email": "d@gmail.com",
+      "address": "kdsnkn",
+      "id": 8
+    },
+    {
+      "name": "dddddd",
+      "email": "rx@gmail.com",
+      "address": "Mz E10lt3 Sc Leoncio Prado",
+      "id": 9
+    }
+  ]
+}
